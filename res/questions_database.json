@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "639dafded394762910e89515"
+  },
+  "title": "Rectangle Area",
+  "description": "In this challenge, you are required to compute the area of a rectangle using classes.Create two classes:RectangleThe Rectangle class should have two data fields-width and height of int types. The class should have display() method, to print the width and height of the rectangle separated by space.",
+  "category": "Arithmetic",
+  "difficulty": "easy",
+  "score": 25,
+  "example": "The RectangleArea class is derived from Rectangle class, i.e., it is the sub-class of Rectangle class. The class should have read_input() method, to read the values of width and height of the rectangle. The RectangleArea class should also overload the display() method to print the area  of the rectangle.",
+  "input_format": "The first and only line of input contains two space separated integers denoting the width and height of the rectangle.",
+  "output_format": "The output should consist of exactly two lines:In the first line, print the width and height of the rectangle separated by space.In the second line, print the area of the rectangle.",
+  "sample_input": "10 5",
+  "sample_output": "10 5\n50",
+  "test_case": "20 50",
+  "test_result": "20 50\n1000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639db605a356392fccfe2f45"
+  },
+  "title": "Sort Vectors",
+  "description": "You are given  integers.Sort the  integers and print the sorted order.\nStore the  integers in a vector.Vectors are sequence containers representing arrays that can change in size.",
+  "category": "Sort",
+  "difficulty": "medium",
+  "score": 10,
+  "input_format": "The first line of the input contains  where  is the number of integers. The next line contains  integers.\nConstraints\n, 1<=N<10^5\n1<=V<=10^9, where  is the  integer in the vector.",
+  "output_format": "Print the integers in the sorted order one by one in a single line followed by a space.",
+  "sample_input": "5\n1 6 10 8 4",
+  "sample_output": "1 4 6 8 10",
+  "test_case": "10\n5 2 6 3 7 8 9 4 1 10",
+  "test_result": "1 2 3 4 5 6 7 8 9 10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a88cbba7440e25c0553932"
+  },
+  "title": "Hello World",
+  "description": "Objective\nIn this challenge, we will learn some basic concepts of C that will get you started with the language. You will need to use the same syntax to read input and write output in many C challenges. As you work through these problems, review the code stubs to learn about reading from stdin and writing to stdout.\nTask\nThis challenge requires you to print 'Hello World' on a single line, and then print the already provided input string to stdout. If you are not familiar with C, you may want to read about the printf() command.",
+  "category": "String",
+  "difficulty": "easy",
+  "score": 5,
+  "input_format": "There is one line of text, s .",
+  "output_format": "",
+  "sample_input": "Welcome to C programming.",
+  "sample_output": "Hello, World!\nWelcome to C programming.",
+  "test_case": "",
+  "test_result": "Hello World",
+  "__v": 0
+}]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "63a88a7ececead185c02e05c"
+  },
+  "photo": "default.jpg",
+  "solvedQuestion": [],
+  "score": 0,
+  "role": "user",
+  "active": true,
+  "name": "Tanishqa Raut",
+  "email": "tanishqa@test.com",
+  "education": "B.Tech",
+  "password": "$2a$12$uHKN/ditWWCkNU5hJqYiLunnTgjbi7ywC/FX96ehAVAA67PaUsQnK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a8afe05fc4fd2b2c65f467"
+  },
+  "photo": "default.jpg",
+  "solvedQuestion": [],
+  "score": 0,
+  "role": "user",
+  "active": true,
+  "name": "Vishwajeet Singh",
+  "email": "vishwajeet@test.com",
+  "education": "B.Tech VIIT Pune",
+  "password": "$2a$12$yy214tWECEI8yrL4GxhpZ.XVuG6sGeUYP6hqto0FEKUJIJ3.5ch5C",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a8b1315fc4fd2b2c65f47f"
+  },
+  "photo": "default.jpg",
+  "solvedQuestion": [],
+  "score": 0,
+  "role": "user",
+  "active": true,
+  "name": "Shivanjali Thopte",
+  "email": "shivanjali@test.com",
+  "education": "B.Tech VIIT Pune",
+  "password": "$2a$12$ZQorw2SWWXSDQLgf8bDuAex/VivVi5ESv3OnAeqPL5h4yBxyGxPAC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a8b1dd5fc4fd2b2c65f48e"
+  },
+  "photo": "default.jpg",
+  "solvedQuestion": [],
+  "score": 0,
+  "role": "user",
+  "active": true,
+  "name": "Swejal Gabhane",
+  "email": "swejal@test.com",
+  "education": "B.Tech VIIT Pune",
+  "password": "$2a$12$93Z9xvZ.gFInCzl4Z6miY./WpcbfCwmCJ0VIoYPNRp8xoDHa9pY8S",
+  "__v": 0
+}]

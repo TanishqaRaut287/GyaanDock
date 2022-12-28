@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "63942189760ca41a18e610c6"
+  },
+  "comment": "test comment",
+  "code": "int a;",
+  "question": {
+    "$oid": "6384b9347f111611d0834524"
+  },
+  "user": {
+    "$oid": "638f1e23dcd8762798a62867"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670652297507"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6394275b1dd3c4161474d0a6"
+  },
+  "comment": "test comment",
+  "code": "int a;",
+  "question": {
+    "$oid": "6384b9347f111611d0834524"
+  },
+  "user": {
+    "$oid": "638f23d4a3851a29a4e00bd3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670653787082"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63943f7389b8a416146a6174"
+  },
+  "comment": "comment on strings question",
+  "code": "string str; \n cout<<str;",
+  "question": {
+    "$oid": "638792ab049205041cd60de8"
+  },
+  "user": {
+    "$oid": "63908f326169ba0678eaea20"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670659955074"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63943ffc89b8a416146a617b"
+  },
+  "comment": "comment on strings question",
+  "code": "string str; \n cout<<str;",
+  "question": {
+    "$oid": "638792ab049205041cd60de8"
+  },
+  "user": {
+    "$oid": "63908f326169ba0678eaea20"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670660092715"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639442645871101b64232dcc"
+  },
+  "comment": "new comment",
+  "code": "string chu; \n cout<<chu;",
+  "question": {
+    "$oid": "638792ab049205041cd60de8"
+  },
+  "user": {
+    "$oid": "63908f326169ba0678eaea20"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670660708795"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6397688dee6d4c2c18ce91d4"
+  },
+  "comment": "test comment",
+  "code": "int abc;",
+  "question": {
+    "$oid": "6384b9347f111611d0834524"
+  },
+  "user": {
+    "$oid": "638f23d4a3851a29a4e00bd3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670867085013"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639768c3ee6d4c2c18ce91d8"
+  },
+  "comment": "this is test comment",
+  "code": "string chu; \n cout<<chu;",
+  "question": {
+    "$oid": "638792ab049205041cd60de8"
+  },
+  "user": {
+    "$oid": "63908f326169ba0678eaea20"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670867139559"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63982ca26566f3177c24dab3"
+  },
+  "comment": "new comment",
+  "code": "string chu; \n cout<<chu;",
+  "question": {
+    "$oid": "638792ab049205041cd60de8"
+  },
+  "user": {
+    "$oid": "63901c72d21dee2d58559a08"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670917282646"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639dbaab21658528d421fda0"
+  },
+  "comment": "this is test comment",
+  "code": "string chu; \n cout<<chu;",
+  "question": {
+    "$oid": "638792ab049205041cd60de8"
+  },
+  "user": {
+    "$oid": "638f1e23dcd8762798a62867"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671281323327"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a8b1735fc4fd2b2c65f484"
+  },
+  "comment": "test comment",
+  "code": "int abc;",
+  "question": {
+    "$oid": "639db605a356392fccfe2f45"
+  },
+  "user": {
+    "$oid": "63a8b1315fc4fd2b2c65f47f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671999859829"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a8b3025fc4fd2b2c65f49e"
+  },
+  "comment": "Question is easy to solve",
+  "code": "a = 5 \n b = 10 \n print(a*b) \n OUTPUT WILL BE 50",
+  "question": {
+    "$oid": "639dafded394762910e89515"
+  },
+  "user": {
+    "$oid": "63a8afe05fc4fd2b2c65f467"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672000258359"
+    }
+  },
+  "__v": 0
+}]
